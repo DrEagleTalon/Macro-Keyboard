@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "atmega32u4-au")(type "Legacy")(uri "${KIPRJMOD}/library/atmega32u4-au.lib")(options "")(descr ""))
+  (lib (name "Macro_Keyboard_v2-rescue")(type "Legacy")(uri "${KIPRJMOD}/Macro_Keyboard_v2-rescue.lib")(options "")(descr ""))
+)
